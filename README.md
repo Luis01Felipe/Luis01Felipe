@@ -1,18 +1,27 @@
-# Olá, sou Luis Felipe
-
+<h1>Olá, sou Luis Felipe</h1> 
+<h3>Sobre Mim:</h3>
+<p>Sou um estudande de Ciência da Computação do 4 semestre, desde jovem sou apaixonado pelo mundo digital e venho buscando me desenvolver cada vez mais como Programador.</p>
 <div style="text-align: center;">
     <h2>Linguagens que uso</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+    <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
+    <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=java&sort=">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
+    </a>
+    <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=python&sort=">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
+    </a>
+    <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=html&sort=">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+    </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40px" />
 </div>
 
 <div>
-          <h2></h2>
-          <p>🔭 Atualmente estou trabalhando em um jogo RPG em Turno com elementos Roguelike feito apenas com caracteres na linguagem Java, fique atendo ao perfil para ver o lançamento ;)
-</p>
+    <h2>Futuro:</h2>
+    <p>Fique atendo pois o futuro aguarda grandes lançamentos ;)</p>
+    <p>🔭 Atualmente estou trabalhando em um jogo RPG em Turno com elementos Roguelike feito apenas com caracteres na linguagem Java.</p>
+    <p>🎮 Pretendo futuramente desenvolver projetos na Unity.</p>
 </div>
  
 <div>
