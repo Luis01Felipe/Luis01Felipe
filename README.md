@@ -26,9 +26,7 @@
 
 <div>
     <h2>Futuro:</h2>
-    <p>🔭 Atualmente estou trabalhando em um jogo RPG em Turno com elementos Roguelike feito apenas com caracteres na linguagem C#.</p>
-    <p>🔭 Atualmente estou trabalhando em uma aplicação mobile de conexão a um banco de dados Fireabase na linguagem C# com o framework dotNET.</p>
-    <p>🎮 Pretendo futuramente desenvolver projetos na Unity.</p>
+    <p>🔭 Atualmente estou trabalhando em um aplicativo no estilo de um launcher para transformar computadores antigos em WindowsTV's.</p>
     <p>Fique atendo pois o futuro aguarda grandes lançamentos ;)</p>
 </div>
  
