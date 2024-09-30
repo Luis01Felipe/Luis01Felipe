@@ -1,20 +1,24 @@
 <h1>Olá, sou Luis Felipe</h1> 
 
 <h3>Sobre Mim:</h3>
-<p>Sou um estudande de Ciência da Computação do 4 semestre, desde jovem sou apaixonado pelo mundo digital e venho buscando me desenvolver cada vez mais como Programador.</p>
+<p>Sou um estudande de Ciência da Computação do 6 semestre, desde jovem sou apaixonado pelo mundo digital e venho buscando me desenvolver cada vez mais como Programador.</p>
 
 <div>
     <h2>Linguagens que uso</h2>
     <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
+    <!-- Java -->
     <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=java&sort=">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
     </a>
-    <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=java&sort=](https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=c%23&sort=">
+    <!-- C# -->
+    <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=csharp&sort=">
         <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40px" />
     </a>
+    <!-- Python -->
     <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=python&sort=">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
     </a>
+    <!-- HTML & CSS -->
     <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=html&sort=">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
@@ -26,17 +30,15 @@
 
 <div>
     <h2>Futuro:</h2>
-    <p>🔭 Atualmente estou trabalhando em um aplicativo no estilo de um launcher para transformar computadores antigos em WindowsTV's.</p>
-    <p>Fique atendo pois o futuro aguarda grandes lançamentos ;)</p>
+    <p>🔭 Atualmente, estou focado nas demandas da universidade e na busca por um estágio. Embora não tenha projetos pessoais em andamento, estou envolvido em projetos colaborativos com organizações, onde posso aplicar e expandir meus conhecimentos.</p>
 </div>
  
 <div>
     <h2>Status</h2>
     <a href="https://github.com/Luis01Felipe">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis01Felipe&layout=compact&langs_count=7&theme=dracula"/>
-        <!-- ERRO: Something went wrong
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis01Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        -->
+        <!-- Talvez deixar comentado porque não tenho tantas tarefas feitas -->
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis01Felipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
     </a>
 </div>
 
