@@ -10,7 +10,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
     </a>
     <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=java&sort=](https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=c%23&sort=">
-        <img src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" width="40px" />
+        <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" width="40px" />
     </a>
     <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=python&sort=">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" />
