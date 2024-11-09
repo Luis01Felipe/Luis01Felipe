@@ -1,11 +1,11 @@
-<h1>Olá, sou Luis Felipe</h1> 
+<h1>Hello, I am Luis Felipe</h1> 
 
-<h3>Sobre Mim:</h3>
-<p>Sou um estudande de Ciência da Computação do 6 semestre, desde jovem sou apaixonado pelo mundo digital e venho buscando me desenvolver cada vez mais como Programador.</p>
+<h2>About Me</h2>
+<p>I'm a 6th semester Computer Science student, since I was young I've been passionate about the digital world and I've been trying to develop myself more and more as a Programmer.</p>
 
 <div>
-    <h2>Linguagens que uso</h2>
-    <p>Clique nas imagens abaixo para ver os projetos respectivos de cada linguagem.</p>
+    <h2>Programming Languages</h2>
+    <!--<p>Click on the images below to see the respective projects for each language.</p>
     <!-- Java -->
     <a href="https://github.com/Luis01Felipe?tab=repositories&q=&type=&language=java&sort=">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
@@ -23,14 +23,15 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
     </a>
-    <a href="">
-        <img src="unity-logo.png" width="40px" />
-    </a>
 </div>
 
+<h2>Natural Languages</h2>
+<li>Brazilian Portugues (PT-BR) - Native</li>
+<li>United States English (en-US) - Advanced</li>
+
 <div>
-    <h2>Futuro:</h2>
-    <p>🔭 Atualmente, estou focado nas demandas da universidade e na busca por um estágio. Embora não tenha projetos pessoais em andamento, estou envolvido em projetos colaborativos com organizações, onde posso aplicar e expandir meus conhecimentos.</p>
+    <h2>What's coming</h2>
+    <p>🔭 Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
 </div>
  
 <div>
@@ -43,11 +44,11 @@
 
 
 <div>
-    <h2>Contatos:</h2>
+    <h2>Social</h2>
     <a href="https://www.linkedin.com/in/luis-felipe-moraes-gomes-couto-b10781201/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40px/>
     </a>
-    <a href="https://discord.gg/beater01" target="_blank">
+    <a href="https://discord.com/users/394443790766702593" target="_blank">
         <img src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source" width=40px>
     </a>
     <a href="mailto:luislf.tlhf@gmail.com" target="_blank">
@@ -56,7 +57,10 @@
     <a href="https://wa.me/5511989583064?text=Olá,%20gostaria%20de%20falar%20com%20você." target="_blank">
         <img src="whats-logo.jpg" width=40px>
     </a>
-    <a href="https://luis01felipe.github.io/LuisFelipe.github.io/index.html">
+    <a href="https://www.instagram.com/luis0.0felipe/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width=40px>
+    </a>
+    <a href="https://luis01felipe.github.io/Luis01Felipe-Website/">
         <img src="background-logo_sphere.png" width=40px>
     </a>
 </div>
