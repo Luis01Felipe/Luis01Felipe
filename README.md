@@ -1,18 +1,19 @@
-<h3>📖 Change Language</h3>
-<p>Languages ​​other than English are translated using a script.</p>
-
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
-    <img src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&logoColor=green" alt="Brazilian Portuguese (PT-BR)">
-</a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
-    <img src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&logoColor=blue" alt="English (US)">
-</a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_es.md" target="_blank">
-    <img src="https://img.shields.io/badge/Spanish_%F0%9F%87%AA%F0%9F%87%B8-%2300A400.svg?logo=Spanish&logoColor=red" alt="Spanish">
-</a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_zh-cn.md" target="_blank">
-    <img src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&logoColor=white" alt="Chinese (Simplified)">
-</a>
+<div>
+    <h3>📖 Change Language</h3>
+    <p>Languages ​​other than English are translated using a script.</p>
+    <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
+        <img src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&logoColor=green" alt="Brazilian Portuguese (PT-BR)">
+    </a>
+    <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
+        <img src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&logoColor=blue" alt="English (US)">
+    </a>
+    <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_es.md" target="_blank">
+        <img src="https://img.shields.io/badge/Spanish_%F0%9F%87%AA%F0%9F%87%B8-%2300A400.svg?logo=Spanish&logoColor=red" alt="Spanish">
+    </a>
+    <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_zh-cn.md" target="_blank">
+        <img src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&logoColor=white" alt="Chinese (Simplified)">
+    </a>
+</div>
 
 <h1>Hello, I am Luis Felipe</h1> 
 <div>
