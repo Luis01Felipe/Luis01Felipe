@@ -37,7 +37,7 @@ def translate_html(file_path, output_path, source_lang='en', target_lang='pt'):
 
 # Configurar os caminhos de entrada e saída
 input_file = 'README.md'
-translations_dir = 'Translations'
+translations_dir = 'translations'
 
 # Iterar sobre os arquivos na pasta Translations
 for filename in os.listdir(translations_dir):

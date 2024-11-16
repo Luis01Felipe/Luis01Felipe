@@ -1,6 +1,6 @@
 <div>
-<h3>📖 Change Language</h3>
-<p>Languages ​​other than English are translated using a script.</p>
+<h3>📖 Mudar a linguagem</h3>
+<p>Outros idiomas que não o inglês são traduzidos usando um script.</p>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
 <img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&amp;logoColor=green"/>
 </a>
@@ -14,20 +14,14 @@
 <img alt="Chinese (Simplified)" src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&amp;logoColor=white"/>
 </a>
 </div>
-<h1>Hello, I am Luis Felipe</h1>
+<h1>Olá, eu sou Luis Felipe</h1>
 <div>
-<h2>💫 About Me</h2>
-<p> 
-        I am a developer passionate about technology, currently studying Computer Science at Universidade Paulista (UNIP), where I am also the class representative. I am currently deepening my knowledge in Artificial Intelligence, backend systems development, Data Science, and data manipulation with MySQL databases.
-    </p>
-<p>
-        Throughout my academic and professional journey, I have developed projects that integrate facial recognition, data analysis, and access control, applying machine learning techniques. Additionally, I share my passion for AI by teaching workshops and creating educational materials to help others explore the potential of this amazing field.
-    </p>
-<p>
-        My goal is to build efficient and scalable solutions, always focusing on user experience and technological innovation. When I am not programming, I am exploring games, anime, movies, or simply learning something new to stay ahead. 
-    </p>
-<h2>🔭 What's coming</h2>
-<p>Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
+<h2>💫 Sobre mim</h2>
+<p>Sou um desenvolvedor apaixonado por tecnologia, atualmente estudando ciência da computação na Universidade Paulista (UNIP), onde também sou o representante da classe.Atualmente, estou aprofundando meu conhecimento em inteligência artificial, desenvolvimento de sistemas de back -end, ciência de dados e manipulação de dados com bancos de dados MySQL.</p>
+<p>Ao longo de minha jornada acadêmica e profissional, desenvolvi projetos que integram o reconhecimento facial, a análise de dados e o controle de acesso, aplicando técnicas de aprendizado de máquina.Além disso, compartilho minha paixão pela IA ensinando oficinas e criando materiais educacionais para ajudar outras pessoas a explorar o potencial desse campo incrível.</p>
+<p>Meu objetivo é criar soluções eficientes e escaláveis, sempre focando na experiência do usuário e na inovação tecnológica.Quando não estou programando, estou explorando jogos, anime, filmes ou simplesmente aprendendo algo novo para ficar à frente.</p>
+<h2>🔭 O que está por vir</h2>
+<p>Atualmente, estou focado nas demandas da universidade e à procura de um estágio.Embora eu não tenha projetos pessoais em andamento, estou envolvido em projetos colaborativos com organizações, onde posso aplicar e expandir meu conhecimento.</p>
 </div>
 <div>
 <h2>🌐 Social</h2>
@@ -51,7 +45,7 @@
 </a>
 </div>
 <div>
-<h2>💻 Tech Stack</h2>
+<h2>💻 Stack de tecnologia</h2>
 <a href="https://www.python.org/" target="_blank">
 <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 </a>
@@ -141,7 +135,7 @@
 </a>
 </div>
 <div>
-<h2>📊 GitHub Stats:</h2>
+<h2>📊 Github Stats:</h2>
 <a href="https://github.com/Luis01Felipe">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luis01Felipe&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false"/>
 </a>
@@ -155,13 +149,13 @@
 </a>
 </div>
 <div>
-<h2>🔝 Top Contributed Repo</h2>
+<h2>🔝 Top contribuído de repositório</h2>
 <a href="https://github.com/Luis01Felipe">
 <img src="https://github-contributor-stats.vercel.app/api?username=Luis01Felipe&amp;limit=5&amp;theme=dracula&amp;combine_all_yearly_contributions=true"/>
 </a>
 </div>
 <div>
-<h2>🤝 Profile Views</h2>
+<h2>🤝 Visualizações de perfil</h2>
 <a href="https://visitcount.itsvg.in">
 <img <="" a="" src="https://visitcount.itsvg.in/api?id=Luis01Felipe&amp;icon=0&amp;color=0"/>
 </a></div>
