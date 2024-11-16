@@ -22,7 +22,7 @@ jobs:
 
       # Instalar dependências
       - name: Install dependencies
-        run: pip install translate beautifulsoup4 googletrans googletrans
+        run: pip install translate beautifulsoup4 googletrans
 
       # Executar o script
       - name: Run sync script
