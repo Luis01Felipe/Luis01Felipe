@@ -1,6 +1,6 @@
 <div>
-<h3>📖 Change Language</h3>
-<p>Languages ​​other than English are translated using a script.</p>
+<h3>📖 Cambiar el idioma</h3>
+<p>Los idiomas distintos del inglés se traducen usando un script.</p>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
 <img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&amp;logoColor=green"/>
 </a>
@@ -14,23 +14,17 @@
 <img alt="Chinese (Simplified)" src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&amp;logoColor=white"/>
 </a>
 </div>
-<h1>Hello, I am Luis Felipe</h1>
+<h1>Hola, soy Luis Felipe</h1>
 <div>
-<h2>💫 About Me</h2>
-<p> 
-        I am a developer passionate about technology, currently studying Computer Science at Universidade Paulista (UNIP), where I am also the class representative. I am currently deepening my knowledge in Artificial Intelligence, backend systems development, Data Science, and data manipulation with MySQL databases.
-    </p>
-<p>
-        Throughout my academic and professional journey, I have developed projects that integrate facial recognition, data analysis, and access control, applying machine learning techniques. Additionally, I share my passion for AI by teaching workshops and creating educational materials to help others explore the potential of this amazing field.
-    </p>
-<p>
-        My goal is to build efficient and scalable solutions, always focusing on user experience and technological innovation. When I am not programming, I am exploring games, anime, movies, or simply learning something new to stay ahead. 
-    </p>
-<h2>🔭 What's coming</h2>
-<p>Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
+<h2>💫 Sobre mi</h2>
+<p>Soy un desarrollador apasionado por la tecnología, que actualmente estudiaba Ciencias de la Computación en la Universidada Paulista (UNIP), donde también soy el representante de la clase.Actualmente estoy profundizando mi conocimiento en inteligencia artificial, desarrollo de sistemas de backend, ciencia de datos y manipulación de datos con bases de datos MySQL.</p>
+<p>A lo largo de mi viaje académico y profesional, he desarrollado proyectos que integran el reconocimiento facial, el análisis de datos y el control de acceso, aplicando técnicas de aprendizaje automático.Además, comparto mi pasión por la IA enseñando talleres y creando materiales educativos para ayudar a otros a explorar el potencial de este increíble campo.</p>
+<p>Mi objetivo es crear soluciones eficientes y escalables, centrándose siempre en la experiencia del usuario y la innovación tecnológica.Cuando no estoy programando, estoy explorando juegos, anime, películas o simplemente aprendiendo algo nuevo para mantenerse a la vanguardia.</p>
+<h2>🔭 Lo que viene</h2>
+<p>Actualmente, estoy enfocado en las demandas de la universidad y en busca de una pasantía.Aunque no tengo proyectos personales en marcha, estoy involucrado en proyectos de colaboración con organizaciones, donde puedo solicitar y ampliar mi conocimiento.</p>
 </div>
 <div>
-<h2>🌐 Social</h2>
+<h2>🌐 social</h2>
 <a href="mailto:luislf.tlhf@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%237289DA.svg?logo=gmail&amp;logoColor=white"/>
 </a>
@@ -51,7 +45,7 @@
 </a>
 </div>
 <div>
-<h2>💻 Tech Stack</h2>
+<h2>💻 pila tecnológica</h2>
 <a href="https://www.python.org/" target="_blank">
 <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 </a>
@@ -141,7 +135,7 @@
 </a>
 </div>
 <div>
-<h2>📊 GitHub Stats:</h2>
+<h2>📊 Estadísticas de GitHub:</h2>
 <a href="https://github.com/Luis01Felipe">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luis01Felipe&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false"/>
 </a>
@@ -155,13 +149,13 @@
 </a>
 </div>
 <div>
-<h2>🔝 Top Contributed Repo</h2>
+<h2>🔝 El repositorio contribuido con los mejores</h2>
 <a href="https://github.com/Luis01Felipe">
 <img src="https://github-contributor-stats.vercel.app/api?username=Luis01Felipe&amp;limit=5&amp;theme=dracula&amp;combine_all_yearly_contributions=true"/>
 </a>
 </div>
 <div>
-<h2>🤝 Profile Views</h2>
+<h2>🤝 Vistas de perfil</h2>
 <a href="https://visitcount.itsvg.in">
 <img <="" a="" src="https://visitcount.itsvg.in/api?id=Luis01Felipe&amp;icon=0&amp;color=0"/>
 </a></div>
