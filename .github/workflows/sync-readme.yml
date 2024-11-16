@@ -1,0 +1,38 @@
+name: Sync README
+
+on:
+  push:
+    paths:
+      - README.md
+
+jobs:
+  sync-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Configurar o Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # Instalar dependências
+      - name: Install dependencies
+        run: pip install translate
+
+      # Executar o script
+      - name: Run sync script
+        run: python sync_readme.py
+
+      # Commit das mudanças
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README_ptbr.md
+          git commit -m "Atualização automática do README_ptbr.md"
+          git push
