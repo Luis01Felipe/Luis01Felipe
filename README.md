@@ -1,3 +1,10 @@
+<h3>📖 Change Natural Language</h3>
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README_ptbr.md" target="_blank">
+    <img src="https://img.shields.io/badge/Brazilian_Portuguese-%237289DA.svg?logo=portuguese&logoColor=white" alt="Brazilian Portuguese (PT-BR)">
+</a>
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/English-%2300A400.svg?logo=english&logoColor=white" alt="English (US)">
+</a>
 <h1>Hello, I am Luis Felipe</h1> 
 
 <div>
@@ -9,13 +16,6 @@
         <br><br> 
         My goal is to build efficient and scalable solutions, always focusing on user experience and technological innovation. When I am not programming, I am exploring games, anime, movies, or simply learning something new to stay ahead. 
     </p>
-    <h2>🗣️ Natural Languages</h2>
-    <a href="https://img.shields.io/badge/Brazilian_Portuguese-%237289DA.svg?logo=portuguese&logoColor=white" target="_blank">
-        <img src="https://img.shields.io/badge/Brazilian_Portuguese-%237289DA.svg?logo=portuguese&logoColor=white" alt="Brazilian Portuguese (PT-BR)">
-    </a>
-    <a href="https://img.shields.io/badge/English-%2300A400.svg?logo=english&logoColor=white" target="_blank">
-        <img src="https://img.shields.io/badge/English-%2300A400.svg?logo=english&logoColor=white" alt="English (US)">
-    </a>
     <h2>🔭 What's coming</h2>
     <p>Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
 </div>
