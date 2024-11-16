@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add -u
+          git add . # Adiciona todos os arquivos modificados no diretório
           git commit -m "Atualização automática dos arquivos" || echo "Nada para commitar"
           git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Luis01Felipe/Luis01Felipe.git" HEAD:main

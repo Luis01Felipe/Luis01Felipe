@@ -1,3 +1,4 @@
+<div>
 <h3>📖 Change Language</h3>
 <p>Languages ​​other than English are translated using a script.</p>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
@@ -12,6 +13,7 @@
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_zh-cn.md" target="_blank">
 <img alt="Chinese (Simplified)" src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&amp;logoColor=white"/>
 </a>
+</div>
 <h1>Hello, I am Luis Felipe</h1>
 <div>
 <h2>💫 About Me</h2>
