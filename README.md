@@ -5,6 +5,7 @@
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&logoColor=white" alt="English (US)">
 </a>
+<p>Testing if the translation works with p tag</p>
 <h1>Hello, I am Luis Felipe</h1> 
 <div>
     <h2>💫 About Me</h2>
@@ -24,7 +25,7 @@
     <a href="mailto:luislf.tlhf@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-%237289DA.svg?logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://linkedin.com/in/luis-felipe-moraes-gomes-couto" target="_blank">
+    <a href="https://www.linkedin.com/in/luis-felipe-moraes-gomes-couto-b10781201/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://reddit.com/user/Patient_Score_4258" target="_blank">
