@@ -1,6 +1,6 @@
 <div>
-<h3>📖改变语言</h3>
-<p>英语以外的其他语言是使用脚本翻译的。</p>
+<h3>📖 Change Language</h3>
+<p>Languages ​​other than English are translated using a script.</p>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
 <img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&amp;logoColor=green"/>
 </a>
@@ -14,17 +14,23 @@
 <img alt="Chinese (Simplified)" src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&amp;logoColor=white"/>
 </a>
 </div>
-<h1>你好，我是路易斯·费利佩</h1>
+<h1>Hello, I am Luis Felipe</h1>
 <div>
-<h2>💫关于我</h2>
-<p>我是对技术充满热情的开发人员，目前正在Paulista大学（UNIP）学习计算机科学，我也是班级代表。目前，我正在加深对通过MySQL数据库进行人工智能，后端系统开发，数据科学和数据操作的知识。</p>
-<p>在我的学术和专业旅程中，我开发了整合面部识别，数据分析和访问控制以及应用机器学习技术的项目。此外，我通过教授讲习班并创建教育材料来帮助他人探索这个惊人的领域的潜力来分享对AI的热情。</p>
-<p>我的目标是建立高效且可扩展的解决方案，始终专注于用户体验和技术创新。当我不编程时，我正在探索游戏，动漫，电影或简单地学习新的东西以保持领先地位。</p>
-<h2>🔭即将发生什么</h2>
-<p>目前，我专注于大学的要求和寻找实习。尽管我没有正在进行的个人项目，但我仍与组织合作，在那里我可以应用和扩展我的知识。</p>
+<h2>💫 About Me</h2>
+<p> 
+        I am a developer passionate about technology, currently studying Computer Science at Universidade Paulista (UNIP), where I am also the class representative. I am currently deepening my knowledge in Artificial Intelligence, backend systems development, Data Science, and data manipulation with MySQL databases.
+    </p>
+<p>
+        Throughout my academic and professional journey, I have developed projects that integrate facial recognition, data analysis, and access control, applying machine learning techniques. Additionally, I share my passion for AI by teaching workshops and creating educational materials to help others explore the potential of this amazing field.
+    </p>
+<p>
+        My goal is to build efficient and scalable solutions, always focusing on user experience and technological innovation. When I am not programming, I am exploring games, anime, movies, or simply learning something new to stay ahead. 
+    </p>
+<h2>🔭 What's coming</h2>
+<p>Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
 </div>
 <div>
-<h2>🌐社交</h2>
+<h2>🌐 Social</h2>
 <a href="mailto:luislf.tlhf@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%237289DA.svg?logo=gmail&amp;logoColor=white"/>
 </a>
@@ -45,7 +51,7 @@
 </a>
 </div>
 <div>
-<h2>💻技术堆栈</h2>
+<h2>💻 Tech Stack</h2>
 <a href="https://www.python.org/" target="_blank">
 <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
 </a>
@@ -135,7 +141,7 @@
 </a>
 </div>
 <div>
-<h2>📊github统计：</h2>
+<h2>📊 GitHub Stats:</h2>
 <a href="https://github.com/Luis01Felipe">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luis01Felipe&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false"/>
 </a>
@@ -149,13 +155,13 @@
 </a>
 </div>
 <div>
-<h2>🔝顶级贡献回购</h2>
+<h2>🔝 Top Contributed Repo</h2>
 <a href="https://github.com/Luis01Felipe">
 <img src="https://github-contributor-stats.vercel.app/api?username=Luis01Felipe&amp;limit=5&amp;theme=dracula&amp;combine_all_yearly_contributions=true"/>
 </a>
 </div>
 <div>
-<h2>🤝配置文件视图</h2>
+<h2>🤝 Profile Views</h2>
 <a href="https://visitcount.itsvg.in">
 <img <="" a="" src="https://visitcount.itsvg.in/api?id=Luis01Felipe&amp;icon=0&amp;color=0"/>
 </a></div>
