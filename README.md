@@ -1,11 +1,10 @@
-<h3>📖 Change Natural Language</h3>
+<h3>📖 Change Language</h3>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README_ptbr.md" target="_blank">
     <img src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&logoColor=white" alt="Brazilian Portuguese (PT-BR)">
 </a>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
     <img src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&logoColor=white" alt="English (US)">
 </a>
-<p>Testing if the translation works with p tag</p>
 <h1>Hello, I am Luis Felipe</h1> 
 <div>
     <h2>💫 About Me</h2>
