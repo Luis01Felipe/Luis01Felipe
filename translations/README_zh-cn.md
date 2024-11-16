@@ -1,16 +1,16 @@
 <div>
 <h3>📖改变语言</h3>
 <p>英语以外的其他语言是使用脚本翻译的。</p>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/translations/README_pt.md" target="_blank">
 <img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&amp;logoColor=green"/>
 </a>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
 <img alt="English (US)" src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&amp;logoColor=blue"/>
 </a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_es.md" target="_blank">
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/translations/README_es.md" target="_blank">
 <img alt="Spanish" src="https://img.shields.io/badge/Spanish_%F0%9F%87%AA%F0%9F%87%B8-%2300A400.svg?logo=Spanish&amp;logoColor=red"/>
 </a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_zh-cn.md" target="_blank">
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/translations/README_zh-cn.md" target="_blank">
 <img alt="Chinese (Simplified)" src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&amp;logoColor=white"/>
 </a>
 </div>
@@ -21,7 +21,7 @@
 <p>在我的学术和专业旅程中，我开发了整合面部识别，数据分析和访问控制以及应用机器学习技术的项目。此外，我通过教授讲习班并创建教育材料来帮助他人探索这个惊人的领域的潜力来分享对AI的热情。</p>
 <p>我的目标是建立高效且可扩展的解决方案，始终专注于用户体验和技术创新。当我不编程时，我正在探索游戏，动漫，电影或简单地学习新的东西以保持领先地位。</p>
 <h2>🔭即将发生什么</h2>
-<p>目前，我专注于大学的要求和寻找实习。尽管我没有正在进行的个人项目，但我仍与组织合作，在那里我可以应用和扩展我的知识。</p>
+<p>目前，我专注于大学的要求和寻找实习。尽管我没有正在进行的个人项目，但我仍与组织合作，可以应用和扩展我的知识。</p>
 </div>
 <div>
 <h2>🌐社交</h2>

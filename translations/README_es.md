@@ -1,16 +1,16 @@
 <div>
 <h3>📖 Cambiar el idioma</h3>
 <p>Los idiomas distintos del inglés se traducen usando un script.</p>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_pt.md" target="_blank">
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/translations/README_pt.md" target="_blank">
 <img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&amp;logoColor=green"/>
 </a>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
 <img alt="English (US)" src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&amp;logoColor=blue"/>
 </a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_es.md" target="_blank">
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/translations/README_es.md" target="_blank">
 <img alt="Spanish" src="https://img.shields.io/badge/Spanish_%F0%9F%87%AA%F0%9F%87%B8-%2300A400.svg?logo=Spanish&amp;logoColor=red"/>
 </a>
-<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/Translations/README_zh-cn.md" target="_blank">
+<a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/translations/README_zh-cn.md" target="_blank">
 <img alt="Chinese (Simplified)" src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&amp;logoColor=white"/>
 </a>
 </div>
@@ -135,7 +135,7 @@
 </a>
 </div>
 <div>
-<h2>📊 Estadísticas de GitHub:</h2>
+<h2>📊 Estadísticas de Github:</h2>
 <a href="https://github.com/Luis01Felipe">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Luis01Felipe&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false"/>
 </a>
