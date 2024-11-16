@@ -9,13 +9,9 @@
 <h1>Olá, sou Luis Felipe</h1>
 <div>
 <h2>Sobre mim</h2>
-<p> 
-        I am a developer passionate about technology, currently studying Computer Science at Universidade Paulista (UNIP), where I am also the class representative. I am currently deepening my knowledge in Artificial Intelligence, backend systems development, Data Science, and data manipulation with MySQL databases. 
-        <br/><br/> 
-        Throughout my academic and professional journey, I have developed projects that integrate facial recognition, data analysis, and access control, applying machine learning techniques. Additionally, I share my passion for AI by teaching workshops and creating educational materials to help others explore the potential of this amazing field. 
-        <br/><br/> 
-        My goal is to build efficient and scalable solutions, always focusing on user experience and technological innovation. When I am not programming, I am exploring games, anime, movies, or simply learning something new to stay ahead. 
-    </p>
+<p>Sou desenvolvedor apaixonado por tecnologia, atualmente cursando Ciência da Computação na Universidade Paulista (UNIP), onde também sou o representante da turma. Atualmente, estou aprofundando meus conhecimentos em Inteligência Artificial, desenvolvimento de sistemas de back-end, Ciência de Dados e manipulação de dados com bancos de dados MySQL.</p>
+<p>Ao longo da minha jornada acadêmica e profissional, desenvolvi projetos que integram reconhecimento facial, análise de dados e controle de acesso, aplicando técnicas de machine learning. Além disso, compartilho minha paixão pela IA ministrando oficinas e criando materiais educacionais para ajudar outras pessoas a explorar o potencial desse campo incrível.</p>
+<p>Meu objetivo é construir soluções eficientes e escaláveis, sempre com foco na experiência do usuário e na inovação tecnológica. Quando não estou programando, estou explorando jogos, animes, filmes ou simplesmente aprendendo algo novo para ficar à frente.</p>
 <h2>O QUE VENHA</h2>
 <p>Atualmente, estou focado nas demandas da universidade e à procura de um estágio. Apesar de não ter projetos pessoais em andamento, estou envolvido em projetos colaborativos com organizações, onde posso aplicar e ampliar meus conhecimentos.</p>
 </div>
