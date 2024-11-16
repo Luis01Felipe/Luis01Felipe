@@ -1,9 +1,9 @@
 <h3>📖 Alterar Linguagem Natural</h3>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README_ptbr.md" target="_blank">
-<img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese-%237289DA.svg?logo=portuguese&amp;logoColor=white"/>
+<img alt="Brazilian Portuguese (PT-BR)" src="https://img.shields.io/badge/Brazilian_Portuguese_%F0%9F%87%A7%F0%9F%87%B7-%237289DA.svg?logo=portuguese&amp;logoColor=white"/>
 </a>
 <a href="https://github.com/Luis01Felipe/Luis01Felipe/blob/main/README.md" target="_blank">
-<img alt="English (US)" src="https://img.shields.io/badge/English-%2300A400.svg?logo=english&amp;logoColor=white"/>
+<img alt="English (US)" src="https://img.shields.io/badge/English_%F0%9F%87%BA%F0%9F%87%B8-%2300A400.svg?logo=english&amp;logoColor=white"/>
 </a>
 <h1>Olá, sou Luis Felipe</h1>
 <div>
@@ -136,8 +136,7 @@
 </a>
 <br/>
 <a href="https://git.io/streak-stats">
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Luis01Felipe&amp;theme=darcula&amp;hide_border=true">
-</img></a>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Luis01Felipe&amp;theme=darcula&amp;hide_border=true"></img></a>
 <br/>
 <a href="https://github.com/Luis01Felipe">
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis01Felipe&amp;theme=dracula&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact"/>
