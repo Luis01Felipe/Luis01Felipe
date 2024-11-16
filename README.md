@@ -14,7 +14,6 @@
         <img src="https://img.shields.io/badge/Chinese_(Simplified)_%F0%9F%87%A8%F0%9F%87%B3-%2300A400.svg?logo=chinese&logoColor=white" alt="Chinese (Simplified)">
     </a>
 </div>
-
 <h1>Hello, I am Luis Felipe</h1> 
 <div>
     <h2>💫 About Me</h2>
