@@ -18,13 +18,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.12"
+          python-version: "3.x"
 
       # Instalar dependências
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install googletrans==4.0.0-rc1 beautifulsoup4
+          pip install googletrans==4.0.0-rc1 beautifulsoup4 httpx==0.23.0
 
       # Executar o script
       - name: Run sync script
@@ -37,4 +37,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add translations/README_pt.md translations/README_es.md translations/README_zh-cn.md # Adiciona todos os arquivos modificados no diretório
           git commit -m "Atualização automática dos arquivos" || echo "Nada para commitar"
-          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Luis01Felipe/Luis01Felipe.git" HEAD:main
+          git diff --quiet || git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Luis01Felipe/Luis01Felipe.git" HEAD:main
