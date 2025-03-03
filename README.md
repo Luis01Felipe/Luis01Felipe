@@ -18,14 +18,14 @@
 <h1>Hello, I am Luis Felipe</h1> 
 <div>
     <h2>💫 About Me</h2>
-    <p> 
-        I am a developer passionate about technology, currently studying Computer Science at Universidade Paulista (UNIP), where I am also the class representative. I am currently deepening my knowledge in Artificial Intelligence, backend systems development, Data Science, and data manipulation with MySQL databases.
+    <p>
+        I am a developer driven by innovation and problem-solving, currently studying Computer Science at Universidade Paulista (UNIP), where I also serve as the class representative. My passion lies in Artificial Intelligence, backend development, and data science, with a strong focus on data manipulation using MySQL.
     </p>
     <p>
-        Throughout my academic and professional journey, I have developed projects that integrate facial recognition, data analysis, and access control, applying machine learning techniques. Additionally, I share my passion for AI by teaching workshops and creating educational materials to help others explore the potential of this amazing field.
+        Throughout my academic and professional journey, I have worked on impactful projects, integrating facial recognition, machine learning, and access control to enhance security and automation. I believe in the power of technology to transform the world, and I actively share this vision by leading workshops, mentoring peers, and creating educational materials to inspire others in the field of AI.
     </p>
-    <p>
-        My goal is to build efficient and scalable solutions, always focusing on user experience and technological innovation. When I am not programming, I am exploring games, anime, movies, or simply learning something new to stay ahead. 
+    <p>    
+    My goal is to develop efficient, scalable, and user-centric solutions that drive real impact. When I’m not programming, I’m exploring games, anime, and movies, or diving into new knowledge to stay ahead in this ever-evolving world of technology.
     </p>
     <h2>🔭 What's coming</h2>
     <p>Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
