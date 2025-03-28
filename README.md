@@ -19,13 +19,13 @@
 <div>
     <h2>💫 About Me</h2>
     <p>
-        I am a developer driven by innovation and problem-solving, currently studying Computer Science at Universidade Paulista (UNIP), where I also serve as the class representative. My passion lies in Artificial Intelligence, backend development, and data science, with a strong focus on data manipulation using MySQL.
+        I am a highly motivated developer with a strong focus on Artificial Intelligence, backend development, and data science. Currently studying Computer Science at Universidade Paulista (UNIP), where I also serve as the class representative. My expertise includes data manipulation with MySQL, integrating machine learning, facial recognition, and access control systems to enhance security and automation.    
     </p>
     <p>
-        Throughout my academic and professional journey, I have worked on impactful projects, integrating facial recognition, machine learning, and access control to enhance security and automation. I believe in the power of technology to transform the world, and I actively share this vision by leading workshops, mentoring peers, and creating educational materials to inspire others in the field of AI.
+        I am passionate about leveraging technology to create impactful, scalable solutions. As a proactive leader, I actively engage in mentoring peers, conducting workshops, and producing educational content to inspire the next generation of AI enthusiasts.
     </p>
     <p>    
-    My goal is to develop efficient, scalable, and user-centric solutions that drive real impact. When I’m not programming, I’m exploring games, anime, and movies, or diving into new knowledge to stay ahead in this ever-evolving world of technology.
+        My goal is to develop innovative, user-centric solutions that make a real-world impact. Outside of programming, I enjoy exploring games, anime, and movies, as well as continuously expanding my knowledge in the ever-evolving tech landscape."
     </p>
     <h2>🔭 What's coming</h2>
     <p>Currently, I am focused on the demands of university and looking for an internship. Although I don't have personal projects underway, I am involved in collaborative projects with organizations, where I can apply and expand my knowledge.</p>
